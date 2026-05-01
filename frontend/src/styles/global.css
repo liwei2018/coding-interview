@@ -1,0 +1,4 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: 'Amazon Ember', Arial, sans-serif; background: #eaeded; color: #0f1111; }
+button { font-family: inherit; }
+input { font-family: inherit; }
