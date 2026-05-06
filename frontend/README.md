@@ -1,4 +1,4 @@
-# Amazon Shop (Vue 3 + Vite + TypeScript)
+# Demo Shop (Vue 3 + Vite + TypeScript)
 
 An Amazon-style product detail demo with separate PC and mobile views, shared UI components, and a Pinia store.
 
